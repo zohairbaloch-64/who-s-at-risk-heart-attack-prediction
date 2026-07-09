@@ -19,7 +19,7 @@ This is not an exploratory scratch notebook — it's structured as a reproducibl
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | | |
 |---|---|
