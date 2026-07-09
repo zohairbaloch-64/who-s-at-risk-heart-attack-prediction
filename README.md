@@ -38,7 +38,7 @@ This is not an exploratory scratch notebook — it's structured as a reproducibl
 
 ---
 
-## 🛠️ Methodology (PACE Framework)
+##  Methodology (PACE Framework)
 
 **1. Plan** — Defined the clinical problem, success criteria (prioritizing recall on the at-risk class, since a missed high-risk patient is costlier than a false alarm), and documented the feature dictionary.
 
@@ -53,7 +53,7 @@ This is not an exploratory scratch notebook — it's structured as a reproducibl
 
 ---
 
-## 🤖 Model Comparison
+##  Model Comparison
 
 Five algorithms were trained on identical preprocessing and evaluated with 5-fold stratified cross-validation:
 
