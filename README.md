@@ -85,7 +85,7 @@ XGBoost was carried forward for tuning because tree-based models expose SHAP-bas
 
 ---
 
-## 🔍 Explainability — SHAP
+##  Explainability — SHAP
 
 Rather than stopping at a leaderboard metric, the notebook uses **SHAP (SHapley Additive exPlanations)** to attribute each prediction to individual feature contributions — both globally (which features matter most across all patients) and locally (why a *specific* patient was flagged).
 
@@ -112,7 +112,7 @@ A `score_patient()` function turns the model into something a clinician-facing t
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── heart_attack_risk_prediction.ipynb   # Full notebook (EDA → modeling → SHAP)
@@ -122,13 +122,13 @@ A `score_patient()` function turns the model into something a clinician-facing t
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP` · `matplotlib` · `seaborn` · `Plotly`
 
 ---
 
-## 🚀 Reproducing This Project
+##  Reproducing This Project
 
 ```bash
 pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn plotly
@@ -145,7 +145,7 @@ jupyter nbconvert --to notebook --execute heart_attack_risk_prediction.ipynb
 
 ---
 
-## 👤 Author
+##  Author
 
 **Muhammad Zohair Baloch**
 BS Artificial Intelligence, Khawaja Fareed University of Engineering & IT (KFUEIT)
